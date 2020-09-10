@@ -4,8 +4,8 @@
  
 ## 个人信息 
 
-* **性 别**：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**年 龄**：22              
-* **手 机**：17754928746&emsp;&emsp;&emsp;           **邮 箱**：Z.Ding-14@sms.ed.ac.uk  
+* **性 别**：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**年 龄**：22              
+* **手 机**：17754928746&emsp;&emsp;**邮 箱**：Z.Ding-14@sms.ed.ac.uk  
 * **专 业**：认知科学&emsp;&emsp;&emsp;&emsp;&emsp;**岗 位**：研发工程师/数据挖掘
 
 ## 教育经历
