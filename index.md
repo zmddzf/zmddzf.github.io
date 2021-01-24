@@ -11,7 +11,7 @@
 
 ## Education
 
-* University of Edinburgh&emsp;&emsp;&emsp;      2020.9~2021.9&emsp;&emsp;&emsp;&emsp; Cognitive Science&emsp;&emsp;&emsp;                      Master
+* University of Edinburgh&emsp;&emsp;&emsp;      2020.9~2021.9&emsp;&emsp;&emsp;&emsp; Cognitive Science&emsp;&emsp;&emsp;&emsp;                       Master
 * Chongqing University&emsp;&emsp;&emsp;&emsp; 2016.9~2020.7&emsp;&emsp;&emsp;&emsp; Information Management&emsp;       Bachelor
 
 ## Skills
