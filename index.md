@@ -7,12 +7,12 @@
 ## Personal Detail 
 
 * **Gender**: Male&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Age**: 22              
-* **Major**: Cognitive Science &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Email**: Z.Ding-14@sms.ed.ac.uk  
+* **Major**: Cognitive Science &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Email**: Z.Ding-14@sms.ed.ac.uk  
 
 ## Education
 
 * University of Edinburgh&emsp;&emsp;&emsp;        2020.9~2021.9&emsp;&emsp;&emsp;&emsp; Cognitive Science                      Master
-* Chongqing University&emsp;&emsp;&emsp;       2016.9~2020.7&emsp;&emsp;&emsp;&emsp; Information Management       Bachelor
+* Chongqing University&emsp;&emsp;&emsp;         2016.9~2020.7&emsp;&emsp;&emsp;&emsp; Information Management       Bachelor
 
 ## Skills
 
