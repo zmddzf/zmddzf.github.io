@@ -86,4 +86,4 @@
 
 * **Workshop**
 
-  Biyu Yang, Xu Wang, **<u>Zhuofei Ding</u>** and Jafar Rezaei. Identifying and prioritizing competency factors for platforms managing service providers in knowledge-intensive crowdsourcing platforms. *The first International Workshop on Best-Worst Method,* 2020. 
+  Biyu Yang, Xu Wang, **<u>Zhuofei Ding</u>** and Jafar Rezaei. Identifying and prioritizing competency factors for platforms managing service providers in knowledge-intensive crowdsourcing platforms. *The first International Workshop on Best-Worst Method,* Online, 2020. 
