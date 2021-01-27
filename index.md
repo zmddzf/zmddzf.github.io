@@ -45,7 +45,7 @@
 
 * **Introduction**
 
-  This project comes from a sub-project of the National key R&R Project. Use text clustering methods and topic model to analysis the key ability of service providers in technology consulting service platform.
+  This project comes from a sub-project of the National key R&D Project. Use text clustering methods and topic model to analysis the key ability of service providers in technology consulting service platform.
 
 * **Main Work**
 
